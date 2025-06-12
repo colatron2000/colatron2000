@@ -4,9 +4,17 @@
 Este é um script que cria um painel flutuante em **qualquer site** para interagir com o modelo **Gemini** da Google usando sua **API Key**. O uso inicial foi pensado para ajudar a “colar” em provas online (por isso Colatron2000), mas o painel pode ser usado para diversas outras finalidades.
 
 ---
+## CRIAR UMA API KEY DO GOOGLE
+
 
 ## 🚀 Como usar
+1. Crie sua API Key em: [https://aistudio.google.com/apikey](https://aistudio.google.com/apikey)  
+2. Copie sua API Key e cole no campo indicado no painel.  
+3. Faça suas perguntas no campo de texto.  
+4. Clique em **Esconder** para minimizar o painel.  
+5. Use o botão flutuante no canto inferior direito para abrir novamente.
 
+6. 
 Você tem dois métodos simples para usar o painel:
 
 ---
@@ -42,15 +50,6 @@ Você tem dois métodos simples para usar o painel:
 3. No campo **URL** do favorito, cole o código acima.  
 4. Acesse qualquer site e clique nesse favorito → o painel será carregado na tela.
 
----
-
-## 🧠 Como usar o painel Gemini
-
-1. Crie sua API Key em: [https://aistudio.google.com/apikey](https://aistudio.google.com/apikey)  
-2. Copie sua API Key e cole no campo indicado no painel.  
-3. Faça suas perguntas no campo de texto.  
-4. Clique em **Esconder** para minimizar o painel.  
-5. Use o botão flutuante no canto inferior direito para abrir novamente.
 
 ---
 
