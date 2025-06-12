@@ -1,4 +1,5 @@
-# 🤖 Colatron (por @gabrielmelo.py) - Google AI direto na sua página
+# 🤖 Colatron2000 (por @gabrielmelo.py) - 
+# Google AI direto na sua página
 
 Este é um painel flutuante que você pode carregar em **qualquer site** para interagir com o modelo **Gemini** da Google usando sua **API Key**.
 
