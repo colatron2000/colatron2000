@@ -34,7 +34,7 @@ Este é um script que cria um painel flutuante em **qualquer site** para interag
 
 ---
 
-### ✅ Método 2 (Opcional e secundário): Via Bookmark (Favorito)
+### ✅ Método 2 (Opcional): Via Bookmark (Favoritos)
 
 1. Copie o código abaixo:
 
