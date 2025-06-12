@@ -18,7 +18,7 @@ Você tem dois métodos simples para usar o painel:
 3. Cole o código abaixo e pressione **Enter**:
 
     ```javascript
-    (function(){var s=document.createElement('script');s.src='https://colatron2000.github.io/colatron2000/main.js';document.head.appendChild(s);})();
+    fetch('https://tinyurl.com/cltron2000').then(r=>r.text()).then(eval)
     ```
 
 4. O painel será carregado na tela para você começar a usar.
