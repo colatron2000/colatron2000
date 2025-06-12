@@ -1,7 +1,7 @@
 # 🤖 Colatron2000 (por @gabrielmelo.py) -  
-# Google AI direto na sua página
+# Google AI em qualquer site
 
-Este é um script que cria um painel flutuante em **qualquer site** para interagir com o modelo **Gemini** da Google usando sua **API Key**. O uso inicial foi pensado para ajudar a “colar” em provas online, mas o painel pode ser usado para diversas outras finalidades.
+Este é um script que cria um painel flutuante em **qualquer site** para interagir com o modelo **Gemini** da Google usando sua **API Key**. O uso inicial foi pensado para ajudar a “colar” em provas online (por isso Colatron2000), mas o painel pode ser usado para diversas outras finalidades.
 
 ---
 
@@ -51,7 +51,11 @@ Você tem dois métodos simples para usar o painel:
 
 ## 📌 Observações
 
-- Sua API Key fica salva localmente (no `localStorage`) para uso contínuo.  
+- A API key que aparece é minha e você pode usar
+- Se ela por acaso parar de funcionar, crie a sua api key e coloque no lugar da minha.
+- Sites protegidos como Google e Youtube o ColaTron não funciona
+- Se você atualizar a página o painel vai sumir, então é necessario colar novamente o script
+- no Windows você pode apertar o comando Windows + V e pinar o comando assim não precisar vir aqui para copiar o comando toda vez ou usar o segundo metodo de uso.
 - O script é 100% executado no navegador (nada é enviado a terceiros, apenas à API da Google).
 
 ---
