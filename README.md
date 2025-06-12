@@ -8,6 +8,7 @@ Este é um script que cria um painel flutuante em **qualquer site** para interag
 
 
 ## 🚀 Como usar
+0. Crie um projeto em [https://console.cloud.google.com/projectcreate](https://console.cloud.google.com/projectcreate)
 1. Crie sua API Key em: [https://aistudio.google.com/apikey](https://aistudio.google.com/apikey)  
 2. Copie sua API Key e cole no campo indicado no painel.  
 3. Faça suas perguntas no campo de texto.  
