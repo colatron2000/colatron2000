@@ -13,11 +13,7 @@ Este é um script que cria um painel flutuante em **qualquer site** para interag
 3. Faça suas perguntas no campo de texto.  
 4. Clique em **Esconder** para minimizar o painel.  
 5. Use o botão flutuante no canto inferior direito para abrir novamente.
-
-6. 
-Você tem dois métodos simples para usar o painel:
-
----
+ 
 
 ### 🧪 Método 1 (Principal e mais fácil): Via Console do Navegador
 
